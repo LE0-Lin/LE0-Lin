@@ -17,7 +17,7 @@ Building RESTful APIs, database-backed applications, and maintainable backend se
 <br />
 <br />
 
-[GitHub](https://github.com/LE0-Lin) | Email: TODO | LinkedIn: TODO
+[GitHub](https://github.com/LE0-Lin) | [Email](mailto:zhibo.lin@outlook.com)
 
 </div>
 
@@ -129,6 +129,5 @@ Backend systems | API design | Database design | Software architecture | AI back
 
 ## Contact
 
-- Email: TODO
-- LinkedIn: TODO
+- Email: [zhibo.lin@outlook.com](mailto:zhibo.lin@outlook.com)
 - GitHub: [github.com/LE0-Lin](https://github.com/LE0-Lin)
