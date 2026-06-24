@@ -12,12 +12,14 @@ Building RESTful APIs, database-backed applications, and maintainable backend se
 <img src="https://img.shields.io/badge/Spring%20Boot-111827?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
 <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
 
 <br />
 <br />
 
-[GitHub](https://github.com/LE0-Lin) | [Email](mailto:zhibo.lin@outlook.com)
+[GitHub](https://github.com/LE0-Lin) | [LinkedIn](https://www.linkedin.com/in/zhibo-lin/) | [Email](mailto:zhibo.lin@outlook.com)
 
 </div>
 
@@ -69,7 +71,7 @@ Building RESTful APIs, database-backed applications, and maintainable backend se
   </tr>
   <tr>
     <td><strong>Frontend Basics</strong></td>
-    <td>JavaScript, Vue, HTML, CSS</td>
+    <td>JavaScript, TypeScript, React, HTML, CSS</td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
@@ -104,7 +106,7 @@ Building RESTful APIs, database-backed applications, and maintainable backend se
     <td width="33%">
       <h3>Database-backed Full-stack Application</h3>
       <p><strong>Status:</strong> Being refined</p>
-      <p><strong>Focus:</strong> Vue, Spring Boot, MySQL/PostgreSQL, frontend-backend integration</p>
+      <p><strong>Focus:</strong> React, Spring Boot, MySQL/PostgreSQL, frontend-backend integration</p>
       <p>A full-stack application focused on connecting user-facing workflows with reliable backend APIs and structured data storage.</p>
       <p><strong>Link:</strong> TODO</p>
     </td>
@@ -130,4 +132,5 @@ Backend systems | API design | Database design | Software architecture | AI back
 ## Contact
 
 - Email: [zhibo.lin@outlook.com](mailto:zhibo.lin@outlook.com)
+- LinkedIn: [linkedin.com/in/zhibo-lin](https://www.linkedin.com/in/zhibo-lin/)
 - GitHub: [github.com/LE0-Lin](https://github.com/LE0-Lin)
