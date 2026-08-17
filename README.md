@@ -134,3 +134,4 @@ Backend systems | API design | Database design | Software architecture | AI back
 - Email: [zhibo.lin@outlook.com](mailto:zhibo.lin@outlook.com)
 - LinkedIn: [linkedin.com/in/zhibo-lin](https://www.linkedin.com/in/zhibo-lin/)
 - GitHub: [github.com/LE0-Lin](https://github.com/LE0-Lin)
+- Gitee: [github.com/LE0-Lin](https://gitee.com/mocking-thrush-05)
