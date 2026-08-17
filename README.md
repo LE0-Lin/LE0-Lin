@@ -91,24 +91,24 @@ Building RESTful APIs, database-backed applications, and maintainable backend se
   <tr>
     <td width="33%">
       <h3>Java Backend System</h3>
-      <p><strong>Status:</strong> In progress / being documented</p>
+      <p>
       <p><strong>Focus:</strong> Spring Boot, RESTful APIs, authentication, database design, backend architecture</p>
       <p>A backend-focused system designed to demonstrate API design, data modeling, and maintainable service-layer architecture.</p>
-      <p><strong>Link:</strong> TODO</p>
+      <p>
     </td>
     <td width="33%">
       <h3>AI-powered Backend Application</h3>
-      <p><strong>Status:</strong> Planned / learning prototype</p>
+      <p>
       <p><strong>Focus:</strong> Spring AI, API integration, backend service design, AI-assisted workflows</p>
       <p>A backend application exploring how AI capabilities can be integrated into Java services through clean API and service design.</p>
-      <p><strong>Link:</strong> TODO</p>
+      <p>
     </td>
     <td width="33%">
       <h3>Database-backed Full-stack Application</h3>
-      <p><strong>Status:</strong> Being refined</p>
+      <p>
       <p><strong>Focus:</strong> React, Spring Boot, MySQL/PostgreSQL, frontend-backend integration</p>
       <p>A full-stack application focused on connecting user-facing workflows with reliable backend APIs and structured data storage.</p>
-      <p><strong>Link:</strong> TODO</p>
+      <p>
     </td>
   </tr>
 </table>
@@ -134,4 +134,4 @@ Backend systems | API design | Database design | Software architecture | AI back
 - Email: [zhibo.lin@outlook.com](mailto:zhibo.lin@outlook.com)
 - LinkedIn: [linkedin.com/in/zhibo-lin](https://www.linkedin.com/in/zhibo-lin/)
 - GitHub: [github.com/LE0-Lin](https://github.com/LE0-Lin)
-- Gitee: [github.com/LE0-Lin](https://gitee.com/mocking-thrush-05)
+- Gitee: [gitee.com/mocking-thrush-05](https://gitee.com/mocking-thrush-05)
