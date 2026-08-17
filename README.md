@@ -32,6 +32,7 @@ Building RESTful APIs, database-backed applications, and maintainable backend se
 - Focused on Java backend development, Spring Boot, RESTful APIs, databases, and software architecture.
 - Interested in AI-powered backend applications, especially backend services that integrate AI capabilities through tools such as Spring AI.
 - Career goal: Software Development Engineer.
+- 2026 TOEFL: 5.
 
 ---
 
