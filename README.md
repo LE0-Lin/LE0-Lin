@@ -2,19 +2,20 @@
 
 # Zhibo Lin
 
-**AI Agent Application Engineer · Software Engineer**
+**AI Agent Application Engineer · Generalist Software Engineer**
 
-Kaggle Silver Medalist · Open-source contributor · Computer Science @ Southwest University
+Kaggle Silver Medalist · TOEFL iBT 5.0/6.0 (CEFR C1) · Computer Science @ Southwest University
 
 [Open-source work](https://github.com/search?q=is%3Apr+author%3ALE0-Lin&type=pullrequests) · [LinkedIn](https://www.linkedin.com/in/zhibo-lin/) · [Email](mailto:zhibo.lin@outlook.com)
 
 </div>
 
-I build dependable software around AI models—agents that use tools, backend services that support them, evaluation pipelines that test them, and infrastructure that keeps the whole system working beyond a demo.
+I work across conventional software engineering and AI-agent application development—building APIs, backend services, data workflows, tool-using agents, evaluation pipelines, and production infrastructure.
 
 ## A few signals
 
 - **Kaggle Competition Silver Medal** — placed **184th of 4,186 teams** in [AI Agent Security — Multi-Step Tool Attacks](https://www.kaggle.com/certification/competitions/leolin05/ai-agent-security-multi-step-tool-attacks), sponsored by OpenAI, Google, and IEEE.
+- **TOEFL iBT 5.0/6.0** on the 2026 scale — **CEFR C1**, comparable to 95–106 on the previous scale ([ETS score guidance](https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html)).
 - **Built and shipped [AgentConfigScore](https://github.com/LE0-Lin/AgentConfigScore)** — an open-source regression gate for AI coding-agent instructions, published on PyPI and usable in GitHub Actions.
 - **Contributed merged patches to large open-source systems** including .NET Runtime, Apache Airflow, Microsoft PowerToys, Apache Fineract, and HiveMind.
 
@@ -40,7 +41,7 @@ A deterministic tool for detecting regressions in `AGENTS.md`, `CLAUDE.md`, Curs
 
 I am a Computer Science undergraduate at **Southwest University**, preparing for graduate study in the United States. My focus is the software engineering around AI rather than model training: agent orchestration, tool use, context handling, model and API integration, evaluation, backend systems, data workflows, and production infrastructure.
 
-Beyond the work shown publicly here, I have built Java backend, AI-agent, and database-backed full-stack systems in private and academic settings. I am comfortable moving between the emerging agent stack and conventional SDE work—turning ambiguous product requirements into software that can be tested, maintained, and shipped.
+For conventional SDE work, I build backend and full-stack systems with Java/Spring, Python, TypeScript/React, SQL databases, Docker, automated testing, and CI/CD. Beyond the work shown publicly here, I have built Java backend, AI-agent, and database-backed full-stack systems in private and academic settings. I am comfortable moving between the emerging agent stack and established software stacks—turning ambiguous product requirements into software that can be tested, maintained, and shipped.
 
 ---
 
