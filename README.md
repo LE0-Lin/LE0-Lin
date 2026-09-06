@@ -16,6 +16,7 @@ I work across conventional software engineering and AI-agent application develop
 
 - **Kaggle Competition Silver Medal** — placed **184th of 4,186 teams** in [AI Agent Security — Multi-Step Tool Attacks](https://www.kaggle.com/certification/competitions/leolin05/ai-agent-security-multi-step-tool-attacks), sponsored by OpenAI, Google, and IEEE.
 - **Tencent Rhino-Bird Open Source Program — Issue Top 3** — completed four issue-practice tasks across OpenTenBase and OpenCloudOS, earned open-source practice certificates, and was named to the official honor roll.
+- **Academic standing: Top 20%** in the Computer Science cohort at Southwest University.
 - **TOEFL iBT 5.0/6.0** on the 2026 scale — **CEFR C1**, comparable to 95–106 on the previous scale ([ETS score guidance](https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html)).
 - **Built and shipped [AgentConfigScore](https://github.com/LE0-Lin/AgentConfigScore)** — an open-source regression gate for AI coding-agent instructions, published on PyPI and usable in GitHub Actions.
 - **Contributed merged patches to large open-source systems** including .NET Runtime, Apache Airflow, Microsoft PowerToys, Apache Fineract, and HiveMind.
