@@ -1,138 +1,76 @@
 <div align="center">
-
-# Zhibo Lin
-
-**Computer Science undergraduate focused on Java backend engineering and AI-powered software systems.**
-
-Building RESTful APIs, database-backed applications, and maintainable backend services with the Java ecosystem.
-
-<br />
-
-<img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Spring%20Boot-111827?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
-<img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
-<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-
-<br />
-<br />
-
-[GitHub](https://github.com/LE0-Lin) | [LinkedIn](https://www.linkedin.com/in/zhibo-lin/) | [Email](mailto:zhibo.lin@outlook.com)
-
+  <img src="./assets/header.svg" width="100%" alt="Zhibo Lin — systems, intelligence, tools" />
 </div>
 
----
+<p align="center">
+  <a href="https://github.com/LE0-Lin?tab=repositories">Repositories</a> ·
+  <a href="https://github.com/pulls?q=is%3Apr+author%3ALE0-Lin">Open-source work</a> ·
+  <a href="https://www.linkedin.com/in/zhibo-lin/">LinkedIn</a> ·
+  <a href="mailto:zhibo.lin@outlook.com">Email</a>
+</p>
 
-## About Me
+<p align="center"><em>I build at the seams—where AI agents meet developer tooling, runtimes, and data systems.</em></p>
 
-- Computer Science undergraduate at Southwest University.
-- Preparing for graduate study in Computer Science / Software Engineering.
-- Focused on Java backend development, Spring Boot, RESTful APIs, databases, and software architecture.
-- Interested in AI-powered backend applications, especially backend services that integrate AI capabilities through tools such as Spring AI.
-- Career goal: Software Development Engineer.
-- 2026 TOEFL: 5.
-
----
-
-## Current Focus
+## Selected work
 
 <table>
   <tr>
-    <td><strong>Backend Development</strong></td>
-    <td>Java backend development, Spring Boot applications, RESTful API design</td>
-  </tr>
-  <tr>
-    <td><strong>System Design</strong></td>
-    <td>Database-backed systems, software architecture, maintainable service layers</td>
-  </tr>
-  <tr>
-    <td><strong>Integration</strong></td>
-    <td>Full-stack system integration, frontend-backend workflows, API contracts</td>
-  </tr>
-  <tr>
-    <td><strong>AI Backend</strong></td>
-    <td>AI-powered backend applications, Spring AI learning and experimentation</td>
-  </tr>
-</table>
-
----
-
-## Tech Stack
-
-<table>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>Java, Spring Boot, Spring MVC, Spring Security, Maven</td>
-  </tr>
-  <tr>
-    <td><strong>Database</strong></td>
-    <td>MySQL, PostgreSQL</td>
-  </tr>
-  <tr>
-    <td><strong>Frontend Basics</strong></td>
-    <td>JavaScript, TypeScript, React, HTML, CSS</td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>Git, GitHub, Docker</td>
-  </tr>
-  <tr>
-    <td><strong>Learning Next</strong></td>
-    <td>Redis, Spring AI, cloud deployment</td>
-  </tr>
-</table>
-
----
-
-## Selected Projects
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>Java Backend System</h3>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LE0-Lin/AgentConfigScore">AgentConfigScore</a></h3>
+      <p><strong>Trustworthy AI tooling</strong></p>
+      <p>A deterministic regression gate for coding-agent instructions. It compares configuration changes against a baseline, reports line-addressable findings, and integrates with GitHub code scanning.</p>
       <p>
-      <p><strong>Focus:</strong> Spring Boot, RESTful APIs, authentication, database design, backend architecture</p>
-      <p>A backend-focused system designed to demonstrate API design, data modeling, and maintainable service-layer architecture.</p>
-      <p>
+        <a href="https://pypi.org/project/agent-config-score/"><img src="https://img.shields.io/pypi/v/agent-config-score?style=flat-square&amp;label=PyPI&amp;color=5b6ee1" alt="PyPI version" /></a>
+        <a href="https://github.com/LE0-Lin/AgentConfigScore/stargazers"><img src="https://img.shields.io/github/stars/LE0-Lin/AgentConfigScore?style=flat-square&amp;color=5b6ee1" alt="GitHub stars" /></a>
+        <a href="https://github.com/LE0-Lin/AgentConfigScore/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/LE0-Lin/AgentConfigScore/ci.yml?style=flat-square&amp;label=CI" alt="CI status" /></a>
+      </p>
     </td>
-    <td width="33%">
-      <h3>AI-powered Backend Application</h3>
-      <p>
-      <p><strong>Focus:</strong> Spring AI, API integration, backend service design, AI-assisted workflows</p>
-      <p>A backend application exploring how AI capabilities can be integrated into Java services through clean API and service design.</p>
-      <p>
-    </td>
-    <td width="33%">
-      <h3>Database-backed Full-stack Application</h3>
-      <p>
-      <p><strong>Focus:</strong> React, Spring Boot, MySQL/PostgreSQL, frontend-backend integration</p>
-      <p>A full-stack application focused on connecting user-facing workflows with reliable backend APIs and structured data storage.</p>
-      <p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LE0-Lin/health_bigdata_system_v4">Health Data System</a></h3>
+      <p><strong>Data-intensive application engineering</strong></p>
+      <p>An end-to-end analytics system spanning data collection and OCR, structured extraction, Flask services, Spark jobs, MySQL/Redis infrastructure, and validation tooling.</p>
+      <p><code>Python</code> <code>Flask</code> <code>Spark</code> <code>MySQL</code> <code>Redis</code></p>
     </td>
   </tr>
 </table>
 
+## Upstream trace
+
+Small patches in large systems are where engineering claims become testable.
+
+| System | Merged work | What changed |
+|:--|:--|:--|
+| **.NET Runtime** | [#132601](https://github.com/dotnet/runtime/pull/132601) · [#132635](https://github.com/dotnet/runtime/pull/132635) | Runtime metadata and performance-sensitive API implementation |
+| **Apache Airflow** | [#71883](https://github.com/apache/airflow/pull/71883) | Safer Kubernetes git-sync configuration |
+| **Microsoft PowerToys** | [#50047](https://github.com/microsoft/PowerToys/pull/50047) | Stable command identity in Command Palette |
+| **Apache Fineract** | [#413](https://github.com/apache/fineract-backoffice-ui/pull/413) · [#415](https://github.com/apache/fineract-backoffice-ui/pull/415) | Frontend test modernization and maker-checker workflows |
+| **HiveMind** | [#82](https://github.com/Emiyaaaaa/HiveMind/pull/82) | Message handling and checkpoint management for a multi-agent system |
+
+<p align="right"><a href="https://github.com/pulls?q=is%3Apr+author%3ALE0-Lin">follow the full trail →</a></p>
+
+## Working range
+
+```text
+AI reliability       deterministic evaluation · agent configuration · CI policy
+Systems              runtimes · performance · containers · developer tooling
+Data                 pipelines · distributed processing · databases · analytics
+Product engineering  APIs · full-stack integration · testing · maintainability
+```
+
+I am a Computer Science undergraduate at **Southwest University**, preparing for graduate study in the United States. I am especially interested in research and engineering questions that cross abstraction boundaries: how AI-native software can remain measurable, how infrastructure choices shape reliability, and how small tools become dependable systems.
+
+<details>
+<summary><strong>More things I have built</strong></summary>
+<br />
+
+- [SWU Smart Course Management](https://github.com/LE0-Lin/SWUSmartCourseManagement) — a Java/Vue course-management system.
+- [Leo School Timetable](https://github.com/LE0-Lin/WeChat-miniprogram-093LeoSchoolTimeTable) — a WeChat Mini Program for student scheduling workflows.
+- [Handtracking](https://github.com/LE0-Lin/Handtracking) — an OpenCV course project proposal and experiment archive.
+
+</details>
+
 ---
 
-## Engineering Interests
-
-Backend systems | API design | Database design | Software architecture | AI backend applications | Cloud-ready applications | Developer tools and engineering productivity
-
----
-
-## GitHub Activity
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LE0-Lin&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub activity for LE0-Lin" />
-</div>
-
----
-
-## Contact
-
-- Email: [zhibo.lin@outlook.com](mailto:zhibo.lin@outlook.com)
-- LinkedIn: [linkedin.com/in/zhibo-lin](https://www.linkedin.com/in/zhibo-lin/)
-- GitHub: [github.com/LE0-Lin](https://github.com/LE0-Lin)
-- Gitee: [gitee.com/mocking-thrush-05](https://gitee.com/mocking-thrush-05)
+<p align="center">
+  <sub>Interested in difficult systems, precise tools, and ideas that survive contact with reality.</sub>
+</p>
