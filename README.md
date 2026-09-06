@@ -9,7 +9,7 @@
   <a href="mailto:zhibo.lin@outlook.com">Email</a>
 </p>
 
-<p align="center"><em>I build at the seams—where AI agents meet developer tooling, runtimes, and data systems.</em></p>
+<p align="center"><em>I build production software around AI agents—from tool use and evaluation to APIs, data, and infrastructure.</em></p>
 
 ## Distinction
 
@@ -21,7 +21,7 @@
     </td>
     <td width="78%" valign="middle">
       <h3><a href="https://www.kaggle.com/certification/competitions/leolin05/ai-agent-security-multi-step-tool-attacks">AI Agent Security — Multi-Step Tool Attacks</a></h3>
-      <p>An algorithmic red-teaming competition on discovering reproducible multi-step failures in tool-using agents. The benchmark covered exfiltration, untrusted-to-action flows, destructive writes, and confused-deputy behavior.</p>
+      <p>A red-teaming competition on discovering reproducible multi-step failures in tool-using agents. The benchmark covered exfiltration, untrusted-to-action flows, destructive writes, and confused-deputy behavior.</p>
       <p><sub>Competition sponsors: OpenAI · Google · IEEE</sub></p>
     </td>
   </tr>
@@ -67,14 +67,14 @@ Small patches in large systems are where engineering claims become testable.
 ## Working range
 
 ```text
-AI security          adversarial search · tool-use attacks · replayable evaluation
-AI reliability       deterministic evaluation · agent configuration · CI policy
-Systems              runtimes · performance · containers · developer tooling
-Data                 pipelines · distributed processing · databases · analytics
-Product engineering  APIs · full-stack integration · testing · maintainability
+Agent engineering    tool use · orchestration · context · model/API integration
+AI reliability       security testing · replayable evaluation · guardrails · CI policy
+Backend & data       APIs · databases · pipelines · distributed workflows
+Systems & tooling    runtimes · containers · developer tools · open-source maintenance
+Product engineering  full-stack integration · testing · deployment · maintainability
 ```
 
-I am a Computer Science undergraduate at **Southwest University**, preparing for graduate study in the United States. I am especially interested in research and engineering questions that cross abstraction boundaries: how AI-native software can remain measurable, how infrastructure choices shape reliability, and how small tools become dependable systems.
+I am a Computer Science undergraduate at **Southwest University**, preparing for graduate study in the United States. My center of gravity is **software engineering around AI models**: turning model capabilities into dependable agents, services, workflows, and user-facing products. I enjoy working across the conventional SDE stack as much as the emerging agent stack—especially where APIs, tools, context, data, infrastructure, and evaluation meet.
 
 <details>
 <summary><strong>More things I have built</strong></summary>
