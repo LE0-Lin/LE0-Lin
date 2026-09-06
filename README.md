@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/LE0-Lin?tab=repositories">Repositories</a> ·
-  <a href="https://github.com/pulls?q=is%3Apr+author%3ALE0-Lin">Open-source work</a> ·
+  <a href="https://github.com/search?q=is%3Apr+author%3ALE0-Lin&amp;type=pullrequests">Open-source work</a> ·
   <a href="https://www.linkedin.com/in/zhibo-lin/">LinkedIn</a> ·
   <a href="mailto:zhibo.lin@outlook.com">Email</a>
 </p>
@@ -46,7 +46,7 @@ Small patches in large systems are where engineering claims become testable.
 | **Apache Fineract** | [#413](https://github.com/apache/fineract-backoffice-ui/pull/413) · [#415](https://github.com/apache/fineract-backoffice-ui/pull/415) | Frontend test modernization and maker-checker workflows |
 | **HiveMind** | [#82](https://github.com/Emiyaaaaa/HiveMind/pull/82) | Message handling and checkpoint management for a multi-agent system |
 
-<p align="right"><a href="https://github.com/pulls?q=is%3Apr+author%3ALE0-Lin">follow the full trail →</a></p>
+<p align="right"><a href="https://github.com/search?q=is%3Apr+author%3ALE0-Lin&amp;type=pullrequests">follow the full trail →</a></p>
 
 ## Working range
 
