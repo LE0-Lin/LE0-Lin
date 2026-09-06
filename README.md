@@ -76,15 +76,15 @@ Product engineering  full-stack integration · testing · deployment · maintain
 
 I am a Computer Science undergraduate at **Southwest University**, preparing for graduate study in the United States. My center of gravity is **software engineering around AI models**: turning model capabilities into dependable agents, services, workflows, and user-facing products. I enjoy working across the conventional SDE stack as much as the emerging agent stack—especially where APIs, tools, context, data, infrastructure, and evaluation meet.
 
-<details>
-<summary><strong>More things I have built</strong></summary>
-<br />
+## Selected private projects
 
-- [SWU Smart Course Management](https://github.com/LE0-Lin/SWUSmartCourseManagement) — a Java/Vue course-management system.
-- [Leo School Timetable](https://github.com/LE0-Lin/WeChat-miniprogram-093LeoSchoolTimeTable) — a WeChat Mini Program for student scheduling workflows.
-- [Handtracking](https://github.com/LE0-Lin/Handtracking) — an OpenCV course project proposal and experiment archive.
+Some of my project work is not mirrored on this public profile. These scopes are included to show the engineering range behind the public activity.
 
-</details>
+| Project | Scope | Engineering focus |
+|:--|:--|:--|
+| **Java Backend System** | A production-oriented service built with the Spring ecosystem | RESTful APIs · authentication · relational data modeling · maintainable service architecture |
+| **AI Agent Application** | A backend application that connects language models with tools, APIs, and multi-step workflows | agent orchestration · tool integration · context handling · service design |
+| **Database-backed Full-stack Application** | An end-to-end application connecting user workflows with structured backend services | React · Spring Boot · MySQL/PostgreSQL · frontend-backend contracts |
 
 ---
 
