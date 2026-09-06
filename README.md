@@ -11,6 +11,22 @@
 
 <p align="center"><em>I build at the seams—where AI agents meet developer tooling, runtimes, and data systems.</em></p>
 
+## Distinction
+
+<table>
+  <tr>
+    <td width="22%" align="center" valign="middle">
+      <h2>🥈 184 / 4,186</h2>
+      <strong>Kaggle Silver Medal</strong>
+    </td>
+    <td width="78%" valign="middle">
+      <h3><a href="https://www.kaggle.com/certification/competitions/leolin05/ai-agent-security-multi-step-tool-attacks">AI Agent Security — Multi-Step Tool Attacks</a></h3>
+      <p>An algorithmic red-teaming competition on discovering reproducible multi-step failures in tool-using agents. The benchmark covered exfiltration, untrusted-to-action flows, destructive writes, and confused-deputy behavior.</p>
+      <p><sub>Competition sponsors: OpenAI · Google · IEEE</sub></p>
+    </td>
+  </tr>
+</table>
+
 ## Selected work
 
 <table>
@@ -51,6 +67,7 @@ Small patches in large systems are where engineering claims become testable.
 ## Working range
 
 ```text
+AI security          adversarial search · tool-use attacks · replayable evaluation
 AI reliability       deterministic evaluation · agent configuration · CI policy
 Systems              runtimes · performance · containers · developer tooling
 Data                 pipelines · distributed processing · databases · analytics
