@@ -2,7 +2,7 @@
 
 # Zhibo Lin
 
-**AI Agent Application Engineer · Generalist Software Engineer**
+**Software Engineer · AI Agents & Backend Systems**
 
 Kaggle Silver Medalist · TOEFL iBT 5.0/6.0 (CEFR C1) · Computer Science @ Southwest University
 
@@ -10,7 +10,7 @@ Kaggle Silver Medalist · TOEFL iBT 5.0/6.0 (CEFR C1) · Computer Science @ Sout
 
 </div>
 
-I work across conventional software engineering and AI-agent application development—building APIs, backend services, data workflows, tool-using agents, evaluation pipelines, and production infrastructure.
+I build AI-agent applications, backend systems, and developer infrastructure—spanning APIs, data workflows, tool-using agents, evaluation pipelines, and production tooling.
 
 ## A few signals
 
