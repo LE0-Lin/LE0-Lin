@@ -76,7 +76,3 @@ A deterministic tool for detecting regressions in `AGENTS.md`, `CLAUDE.md`, Curs
 I am a Computer Science undergraduate at **Southwest University**, preparing for graduate study in the United States. My focus is the software engineering around AI rather than model training: agent orchestration, tool use, context handling, model and API integration, evaluation, backend systems, data workflows, and production infrastructure.
 
 For conventional SDE work, I build backend and full-stack systems with Java/Spring, Python, TypeScript/React, SQL databases, Docker, automated testing, and CI/CD. Beyond the work shown publicly here, I have built Java backend, AI-agent, and database-backed full-stack systems in private and academic settings. I am comfortable moving between the emerging agent stack and established software stacks—turning ambiguous product requirements into software that can be tested, maintained, and shipped.
-
----
-
-<p align="center"><sub>Build the system. Test the claim.</sub></p>
