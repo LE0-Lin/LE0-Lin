@@ -8,6 +8,8 @@ Kaggle Silver Medalist · TOEFL iBT 5.0/6.0 (CEFR C1) · Computer Science @ Sout
 
 [Open-source work](https://github.com/search?q=is%3Apr+author%3ALE0-Lin&type=pullrequests) · [LinkedIn](https://www.linkedin.com/in/zhibo-lin/) · [Email](mailto:zhibo.lin@outlook.com)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Building+AI+agents+and+backend+systems.;Open-source+contributor+across+the+stack.)](https://github.com/LE0-Lin)
+
 </div>
 
 I build AI-agent applications, backend systems, and developer infrastructure—spanning APIs, data workflows, tool-using agents, evaluation pipelines, and production tooling.
@@ -59,6 +61,23 @@ A deterministic tool for detecting regressions in `AGENTS.md`, `CLAUDE.md`, Curs
     </picture>
   </a>
 </p>
+
+## Activity
+
+<p align="center">
+  <a href="https://github.com/LE0-Lin">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-pulse-mu.vercel.app/u/le0-lin" />
+      <img src="https://github-pulse-mu.vercel.app/u/le0-lin?theme=paper" alt="LE0-Lin GitHub activity pulse" />
+    </picture>
+  </a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LE0-Lin/LE0-Lin/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LE0-Lin/LE0-Lin/output/github-contribution-grid-snake.svg" />
+  <img alt="LE0-Lin contribution grid snake animation" src="https://raw.githubusercontent.com/LE0-Lin/LE0-Lin/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## About
 
