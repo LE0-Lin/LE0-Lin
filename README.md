@@ -40,6 +40,17 @@ A deterministic tool for detecting regressions in `AGENTS.md`, `CLAUDE.md`, Curs
 - **Apache Fineract** — [frontend test modernization](https://github.com/apache/fineract-backoffice-ui/pull/413) and [maker-checker workflow handling](https://github.com/apache/fineract-backoffice-ui/pull/415).
 - **HiveMind** — [message handling and checkpoint management](https://github.com/Emiyaaaaa/HiveMind/pull/82) for a multi-agent system.
 
+### GitHub profile snapshot
+
+<p align="center">
+  <a href="https://ghfind.com/u/le0-lin?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/le0-lin?theme=dark" />
+      <img src="https://ghfind.com/api/card/mini/le0-lin?theme=light" alt="GitHub Roast score card" width="440" />
+    </picture>
+  </a>
+</p>
+
 ## About
 
 I am a Computer Science undergraduate at **Southwest University**, preparing for graduate study in the United States. My focus is the software engineering around AI rather than model training: agent orchestration, tool use, context handling, model and API integration, evaluation, backend systems, data workflows, and production infrastructure.
