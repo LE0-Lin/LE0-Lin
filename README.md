@@ -51,6 +51,15 @@ A deterministic tool for detecting regressions in `AGENTS.md`, `CLAUDE.md`, Curs
   </a>
 </p>
 
+<p align="center">
+  <a href="https://ghfind.com/u/le0-lin?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/le0-lin?theme=dark&amp;variant=pr" />
+      <img src="https://ghfind.com/api/card/le0-lin?theme=light&amp;variant=pr" alt="GitHub contribution profile" width="600" />
+    </picture>
+  </a>
+</p>
+
 ## About
 
 I am a Computer Science undergraduate at **Southwest University**, preparing for graduate study in the United States. My focus is the software engineering around AI rather than model training: agent orchestration, tool use, context handling, model and API integration, evaluation, backend systems, data workflows, and production infrastructure.
