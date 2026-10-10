@@ -22,7 +22,7 @@ I build AI-agent applications, backend systems, and developer infrastructure—s
 - **University-level scholarship recipient** at Southwest University.
 - **TOEFL iBT 5.0/6.0** on the 2026 scale — **CEFR C1**, comparable to 95–106 on the previous scale ([ETS score guidance](https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html)).
 - **Built and shipped [AgentConfigScore](https://github.com/LE0-Lin/AgentConfigScore)** — an open-source regression gate for AI coding-agent instructions, published on PyPI and usable in GitHub Actions.
-- **Contributed merged patches to large open-source systems** including .NET Runtime, Apache Airflow, Microsoft PowerToys, Apache Fineract, and HiveMind.
+- **Contributed merged patches to large open-source systems** including Hugging Face Transformers, ONNX, MLflow, .NET Runtime, Apache Airflow, Microsoft Agent Framework Durable Extension, Microsoft PowerToys, Apache Fineract, and HiveMind, plus a credited co-authored fix in Microsoft PyRIT.
 
 ## Selected work
 
@@ -37,10 +37,15 @@ A deterministic tool for detecting regressions in `AGENTS.md`, `CLAUDE.md`, Curs
 ### Selected upstream work
 
 - **[Tencent Rhino-Bird 2026](https://opensource.tencent.com/summer-of-code/)** — completed four open-source tasks across OpenTenBase and OpenCloudOS: [Issue #199](https://github.com/OpenTenBase/OpenTenBase/issues/199#issuecomment-5191710626) through [PR #253](https://github.com/OpenTenBase/OpenTenBase/pull/253), [Issue #200](https://github.com/OpenTenBase/OpenTenBase/issues/200#issuecomment-5191814102) through [PR #254](https://github.com/OpenTenBase/OpenTenBase/pull/254), an [OpenCloudOS Security Skill — PR !86](https://gitee.com/OpenCloudOS/contributor_rhino-bird/pulls/86) ([completion record](https://gitee.com/OpenCloudOS/contributor_rhino-bird/issues/IJV0LW#note_50748260)), and [parallel chroot package testing — PR !10](https://gitee.com/opencloudos-testing/yum-ci-pkg-test/pulls/10) ([completion record](https://gitee.com/OpenCloudOS/contributor_rhino-bird/issues/IJV5MW#note_50748142)); both OpenCloudOS tasks were marked “completed and awarded,” with Issue Top 3 recognition.
-- **.NET Runtime** — [runtime metadata](https://github.com/dotnet/runtime/pull/132601) and a [performance-sensitive API implementation](https://github.com/dotnet/runtime/pull/132635).
-- **Apache Airflow** — merged support for reserved VPC IP ranges in Vertex AI pipeline jobs, including operator- and SDK-boundary tests ([PR #72560](https://github.com/apache/airflow/pull/72560)), plus a Helm chart safety warning for inline git-sync SSH keys ([PR #71883](https://github.com/apache/airflow/pull/71883)).
+- **Hugging Face Transformers** — merged fixes for [watermark repeated-ngram statistics](https://github.com/huggingface/transformers/pull/49315), [Phi3 LongRoPE cache rebuilding at the context boundary](https://github.com/huggingface/transformers/pull/49361), and [quantized-cache flushing for multi-token updates](https://github.com/huggingface/transformers/pull/49418).
+- **ONNX** — merged [Resize opset 12→13 conversion fixes](https://github.com/onnx/onnx/pull/8538), covering removed coordinate modes and incompatible scales/sizes inputs with Python and C++ regression tests.
+- **.NET Runtime** — [ReadyToRun architecture metadata](https://github.com/dotnet/runtime/pull/132601) and [JIT inlining policy for Span.ToArray](https://github.com/dotnet/runtime/pull/132635).
+- **Apache Airflow** — merged [AWS configuration preservation across deferred execution](https://github.com/apache/airflow/pull/72472), support for reserved VPC IP ranges in Vertex AI pipeline jobs, including operator- and SDK-boundary tests ([PR #72560](https://github.com/apache/airflow/pull/72560)), and a Helm chart safety warning for inline git-sync SSH keys ([PR #71883](https://github.com/apache/airflow/pull/71883)).
+- **MLflow** — merged [stable evaluation-dataset hashing for list-valued targets and predictions](https://github.com/mlflow/mlflow/pull/26433), with regression coverage for repeatability and distinct content.
+- **Microsoft Agent Framework Durable Extension** — merged [explicit workflow failure when the superstep limit is exceeded](https://github.com/microsoft/agent-framework-durable-extension/pull/84), preventing successful partial results.
+- **Microsoft PyRIT** — my [StringJoin converter identity diagnosis and reproduction](https://github.com/microsoft/PyRIT/issues/2973) were credited in the [merged fix](https://github.com/microsoft/PyRIT/pull/2976), with [co-author credit in the merge commit](https://github.com/microsoft/PyRIT/commit/4659ebe553f8b491356669ba451139d6787add8c).
 - **Microsoft PowerToys** — [stable command identity in Command Palette](https://github.com/microsoft/PowerToys/pull/50047).
-- **Apache Fineract** — [frontend test modernization](https://github.com/apache/fineract-backoffice-ui/pull/413) and [maker-checker workflow handling](https://github.com/apache/fineract-backoffice-ui/pull/415).
+- **Apache Fineract** — merged [frontend test modernization](https://github.com/apache/fineract-backoffice-ui/pull/413), [maker-checker rejection audit handling](https://github.com/apache/fineract-backoffice-ui/pull/415), and [loan interest-pause editing](https://github.com/apache/fineract-backoffice-ui/pull/481).
 - **HiveMind** — [message handling and checkpoint management](https://github.com/Emiyaaaaa/HiveMind/pull/82) for a multi-agent system.
 
 ### GitHub profile snapshot
