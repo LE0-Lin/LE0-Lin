@@ -53,8 +53,8 @@ A deterministic tool for detecting regressions in `AGENTS.md`, `CLAUDE.md`, Curs
 <p align="center">
   <a href="https://ghfind.com/u/le0-lin?ref=badge">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/le0-lin?theme=dark" />
-      <img src="https://ghfind.com/api/card/mini/le0-lin?theme=light" alt="GitHub Roast score card" width="440" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/le0-lin?theme=dark&amp;variant=bars" />
+      <img src="https://ghfind.com/api/card/mini/le0-lin?theme=light&amp;variant=bars" alt="GitHub Roast score card" width="440" />
     </picture>
   </a>
 </p>
