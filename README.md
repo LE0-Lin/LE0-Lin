@@ -20,7 +20,7 @@ I build AI-agent applications, backend systems, and developer infrastructure—s
 - **Tencent Rhino-Bird Open Source Program — Issue Top 3** — completed four issue-practice tasks across OpenTenBase and OpenCloudOS, earned the [Open Source Practice Certificate](assets/credentials/tencent-rhino-bird-2026-open-source-practice.pdf) and [Open Source Course Completion Certificate](assets/credentials/tencent-rhino-bird-2026-course-completion.pdf), and was named to the official honor roll.
 - **Academic standing: Top 20%** in the Computer Science cohort at Southwest University.
 - **University-level scholarship recipient** at Southwest University.
-- **TOEFL iBT 5.0/6.0** on the 2026 scale — **CEFR C1**, comparable to 95–106 on the previous scale ([ETS score guidance](https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html)).
+- **TOEFL iBT 5.0/6.0** on the 2026 scale — **CEFR C1**, comparable to 100 of 120 on the previous scale ([ETS score guidance](https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html)).
 - **Built and shipped [AgentConfigScore](https://github.com/LE0-Lin/AgentConfigScore)** — an open-source regression gate for AI coding-agent instructions, published on PyPI and usable in GitHub Actions.
 - **Contributed merged patches to large open-source systems** including Hugging Face Transformers, ONNX, MLflow, .NET Runtime, Apache Airflow, Microsoft Agent Framework Durable Extension, Microsoft PowerToys, Apache Fineract, and HiveMind, plus a credited co-authored fix in Microsoft PyRIT.
 
