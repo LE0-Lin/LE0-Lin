@@ -10,8 +10,6 @@ This repository publishes the GitHub profile README for [LE0-Lin](https://github
 4. Check image links and descriptive alt text, including the light and dark variants used by `<picture>` elements.
 5. Open a pull request with a brief description of the change, inspect the diff, and merge when ready.
 
-Keep the main README focused on maintained projects and a short selection of concrete contributions. Add longer contribution histories and completion records to [upstream-work.md](upstream-work.md). Use primary evidence such as merged patches and reproducible project artifacts; third-party profile scores are not evidence of software quality.
-
 ## Contribution animation
 
 The workflow in [generate-snake.yml](../.github/workflows/generate-snake.yml) runs daily at 00:00 UTC, on pushes to `main`, and through manual dispatch. It publishes generated SVG files to the `output` branch.

@@ -1,53 +1,69 @@
+<div align="center">
+
 # Zhibo Lin
 
-Computer Science undergraduate at **Southwest University**, working on agent reliability, developer tools, and backend systems.
+**Software Engineer · AI Agents & Backend Systems**
 
-[Merged contributions](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ALE0-Lin&type=pullrequests) · [Kaggle](https://www.kaggle.com/leolin05) · [LinkedIn](https://www.linkedin.com/in/zhibo-lin/) · [Email](mailto:zhibo.lin@outlook.com)
+Kaggle Silver Medalist · TOEFL iBT 5.0/6.0 (CEFR C1) · Computer Science @ Southwest University
 
-I am interested in what happens when software changes: whether an agent's instructions lose a constraint, a workflow stops reporting failures, or a cache returns the wrong result at a boundary. My projects and upstream contributions explore ways to make those failures reproducible and testable.
+[Open-source work](https://github.com/search?q=is%3Apr+author%3ALE0-Lin&type=pullrequests) · [LinkedIn](https://www.linkedin.com/in/zhibo-lin/) · [Email](mailto:zhibo.lin@outlook.com)
 
-## Projects
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Building+AI+agents+and+backend+systems.;Open-source+contributor+across+the+stack.)](https://github.com/LE0-Lin)
+
+</div>
+
+I build AI-agent applications, backend systems, and developer infrastructure—spanning APIs, data workflows, tool-using agents, evaluation pipelines, and production tooling.
+
+## A few signals
+
+- **Kaggle Competition Silver Medal** — placed **184th of 4,186 teams** in [AI Agent Security — Multi-Step Tool Attacks](https://www.kaggle.com/certification/competitions/leolin05/ai-agent-security-multi-step-tool-attacks), sponsored by OpenAI, Google, and IEEE.
+- **Tencent Rhino-Bird Open Source Program — Issue Top 3** — completed four issue-practice tasks across OpenTenBase and OpenCloudOS, earned the [Open Source Practice Certificate](assets/credentials/tencent-rhino-bird-2026-open-source-practice.pdf) and [Open Source Course Completion Certificate](assets/credentials/tencent-rhino-bird-2026-course-completion.pdf), and was named to the official honor roll.
+- **Academic standing: Top 20%** in the Computer Science cohort at Southwest University.
+- **University-level scholarship recipient** at Southwest University.
+- **TOEFL iBT 5.0/6.0** on the 2026 scale — **CEFR C1**, comparable to 100 of 120 on the previous scale ([ETS score guidance](https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html)).
+- **Built and shipped [AgentConfigScore](https://github.com/LE0-Lin/AgentConfigScore)** — an open-source regression gate for AI coding-agent instructions, published on PyPI and usable in GitHub Actions.
+- **Contributed merged patches to large open-source systems** including Hugging Face Transformers, ONNX, MLflow, .NET Runtime, Apache Airflow, Microsoft Agent Framework Durable Extension, Microsoft PowerToys, Apache Fineract, and HiveMind, plus a credited co-authored fix in Microsoft PyRIT.
+
+## Selected work
 
 ### [AgentConfigScore](https://github.com/LE0-Lin/AgentConfigScore)
 
-Local static analysis and baseline-governed CI checks for coding-agent instructions, including `AGENTS.md`, `CLAUDE.md`, Cursor, Copilot, and Gemini.
-
-- Compare instruction changes against a baseline and enforce the baseline's policy in CI.
-- Report deterministic rule findings with rule IDs and source locations where available; export SARIF for GitHub code scanning.
-- Run locally without model API calls or third-party runtime dependencies. Available as a Python CLI and a GitHub Action.
-
-[Quick start and limitations](https://github.com/LE0-Lin/AgentConfigScore#readme) · [Documentation](https://github.com/LE0-Lin/AgentConfigScore/tree/main/docs)
+A deterministic tool for detecting regressions in `AGENTS.md`, `CLAUDE.md`, Cursor, Copilot, and Gemini instruction files. It provides baseline-aware scoring, line-addressable findings, GitHub code-scanning output, and CI enforcement without runtime dependencies.
 
 [![PyPI](https://img.shields.io/pypi/v/agent-config-score?style=flat-square&label=PyPI)](https://pypi.org/project/agent-config-score/)
+[![Stars](https://img.shields.io/github/stars/LE0-Lin/AgentConfigScore?style=flat-square&label=Stars)](https://github.com/LE0-Lin/AgentConfigScore/stargazers)
 [![CI](https://img.shields.io/github/actions/workflow/status/LE0-Lin/AgentConfigScore/ci.yml?style=flat-square&label=CI)](https://github.com/LE0-Lin/AgentConfigScore/actions/workflows/ci.yml)
 
-### [Kaggle AI Agent Security — Silver Medal Solution](https://github.com/LE0-Lin/kaggle-ai-agent-security-silver)
+### Selected upstream work
 
-**184th of 4,186 teams** in AI Agent Security: Multi-Step Tool Attacks. A budgeted probe–select–expand algorithm searches for replayable tool-use failures using exported execution traces. The repository includes the evaluated notebook, a technical walkthrough, and offline contract tests.
+- **[Tencent Rhino-Bird 2026](https://opensource.tencent.com/summer-of-code/)** — completed four open-source tasks across OpenTenBase and OpenCloudOS: [Issue #199](https://github.com/OpenTenBase/OpenTenBase/issues/199#issuecomment-5191710626) through [PR #253](https://github.com/OpenTenBase/OpenTenBase/pull/253), [Issue #200](https://github.com/OpenTenBase/OpenTenBase/issues/200#issuecomment-5191814102) through [PR #254](https://github.com/OpenTenBase/OpenTenBase/pull/254), an [OpenCloudOS Security Skill — PR !86](https://gitee.com/OpenCloudOS/contributor_rhino-bird/pulls/86) ([completion record](https://gitee.com/OpenCloudOS/contributor_rhino-bird/issues/IJV0LW#note_50748260)), and [parallel chroot package testing — PR !10](https://gitee.com/opencloudos-testing/yum-ci-pkg-test/pulls/10) ([completion record](https://gitee.com/OpenCloudOS/contributor_rhino-bird/issues/IJV5MW#note_50748142)); both OpenCloudOS tasks were marked “completed and awarded,” with Issue Top 3 recognition.
+- **Hugging Face Transformers** — merged fixes for [watermark repeated-ngram statistics](https://github.com/huggingface/transformers/pull/49315), [Phi3 LongRoPE cache rebuilding at the context boundary](https://github.com/huggingface/transformers/pull/49361), and [quantized-cache flushing for multi-token updates](https://github.com/huggingface/transformers/pull/49418).
+- **ONNX** — merged [Resize opset 12→13 conversion fixes](https://github.com/onnx/onnx/pull/8538), covering removed coordinate modes and incompatible scales/sizes inputs with Python and C++ regression tests.
+- **.NET Runtime** — [ReadyToRun architecture metadata](https://github.com/dotnet/runtime/pull/132601) and [JIT inlining policy for Span.ToArray](https://github.com/dotnet/runtime/pull/132635).
+- **Apache Airflow** — merged [AWS configuration preservation across deferred execution](https://github.com/apache/airflow/pull/72472), support for reserved VPC IP ranges in Vertex AI pipeline jobs, including operator- and SDK-boundary tests ([PR #72560](https://github.com/apache/airflow/pull/72560)), and a Helm chart safety warning for inline git-sync SSH keys ([PR #71883](https://github.com/apache/airflow/pull/71883)).
+- **MLflow** — merged [stable evaluation-dataset hashing for list-valued targets and predictions](https://github.com/mlflow/mlflow/pull/26433), with regression coverage for repeatability and distinct content.
+- **Microsoft Agent Framework Durable Extension** — merged [explicit workflow failure when the superstep limit is exceeded](https://github.com/microsoft/agent-framework-durable-extension/pull/84), preventing successful partial results.
+- **Microsoft PyRIT** — my [StringJoin converter identity diagnosis and reproduction](https://github.com/microsoft/PyRIT/issues/2973) were credited in the [merged fix](https://github.com/microsoft/PyRIT/pull/2976), with [co-author credit in the merge commit](https://github.com/microsoft/PyRIT/commit/4659ebe553f8b491356669ba451139d6787add8c).
+- **Microsoft PowerToys** — [stable command identity in Command Palette](https://github.com/microsoft/PowerToys/pull/50047).
+- **Apache Fineract** — merged [frontend test modernization](https://github.com/apache/fineract-backoffice-ui/pull/413), [maker-checker rejection audit handling](https://github.com/apache/fineract-backoffice-ui/pull/415), and [loan interest-pause editing](https://github.com/apache/fineract-backoffice-ui/pull/481).
+- **HiveMind** — [message handling and checkpoint management](https://github.com/Emiyaaaaa/HiveMind/pull/82) for a multi-agent system.
 
-[Official certificate](https://www.kaggle.com/certification/competitions/leolin05/ai-agent-security-multi-step-tool-attacks) · [Method](https://github.com/LE0-Lin/kaggle-ai-agent-security-silver/blob/main/docs/solution-walkthrough.md) · [Reproduction and scope](https://github.com/LE0-Lin/kaggle-ai-agent-security-silver/blob/main/docs/reproducibility.md)
+### GitHub profile snapshot
 
-## Selected merged contributions
+<p align="center">
+  <a href="https://ghfind.com/u/le0-lin?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/le0-lin?theme=dark&amp;variant=bars" />
+      <img src="https://ghfind.com/api/card/mini/le0-lin?theme=light&amp;variant=bars" alt="GitHub Roast score card" width="440" />
+    </picture>
+  </a>
+</p>
 
-| Project | Change |
-| --- | --- |
-| Hugging Face Transformers | [Rebuild Phi3 LongRoPE caches at the context boundary](https://github.com/huggingface/transformers/pull/49361). |
-| ONNX | [Handle incompatible Resize inputs during opset 12→13 conversion](https://github.com/onnx/onnx/pull/8538), with Python and C++ regression tests. |
-| Apache Airflow | [Preserve OpenSearch Serverless hook configuration across deferred execution](https://github.com/apache/airflow/pull/72472). |
-| MLflow | [Make evaluation-dataset hashing stable for list-valued targets and predictions](https://github.com/mlflow/mlflow/pull/26433). |
-| Microsoft Agent Framework Durable Extension | [Fail workflows explicitly when the superstep limit is exceeded](https://github.com/microsoft/agent-framework-durable-extension/pull/84). |
+<p align="center">
+  <a href="https://ghfind.com/u/le0-lin?ref=badge"><img src="https://ghfind.com/api/card/le0-lin?theme=dark&variant=contrib" alt="GitHub Roast" width="600" /></a>
+</p>
 
-For Microsoft PyRIT, my [StringJoin converter diagnosis and reproduction](https://github.com/microsoft/PyRIT/issues/2973) were credited in the [merged fix](https://github.com/microsoft/PyRIT/pull/2976), with [co-author credit](https://github.com/microsoft/PyRIT/commit/4659ebe553f8b491356669ba451139d6787add8c).
-
-[More upstream work and completion records](docs/upstream-work.md)
-
-## Background
-
-- **Tencent Rhino-Bird 2026 — Issue Top 3.** Completed four open-source practice tasks across OpenTenBase and OpenCloudOS. [Task records](docs/upstream-work.md) · [Practice certificate](assets/credentials/tencent-rhino-bird-2026-open-source-practice.pdf) · [Course certificate](assets/credentials/tencent-rhino-bird-2026-course-completion.pdf).
-- I also build academic and personal backend systems with Python, Java/Spring, TypeScript, SQL, and Docker.
-
-<details>
-<summary>Contribution activity</summary>
+## Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LE0-Lin/LE0-Lin/output/github-contribution-grid-snake-dark.svg" />
@@ -55,4 +71,8 @@ For Microsoft PyRIT, my [StringJoin converter diagnosis and reproduction](https:
   <img alt="LE0-Lin contribution grid snake animation" src="https://raw.githubusercontent.com/LE0-Lin/LE0-Lin/output/github-contribution-grid-snake.svg" />
 </picture>
 
-</details>
+## About
+
+I am a Computer Science undergraduate at **Southwest University**, preparing for graduate study in the United States. My focus is the software engineering around AI rather than model training: agent orchestration, tool use, context handling, model and API integration, evaluation, backend systems, data workflows, and production infrastructure.
+
+For conventional SDE work, I build backend and full-stack systems with Java/Spring, Python, TypeScript/React, SQL databases, Docker, automated testing, and CI/CD. Beyond the work shown publicly here, I have built Java backend, AI-agent, and database-backed full-stack systems in private and academic settings. I am comfortable moving between the emerging agent stack and established software stacks—turning ambiguous product requirements into software that can be tested, maintained, and shipped.
